@@ -1,0 +1,5 @@
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\bin\Debug\SolidPrinciples.Demo.OCP.dll
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\bin\Debug\SolidPrinciples.Demo.OCP.pdb
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\obj\Debug\SolidPrinciples.Demo.OCP.dll
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\obj\Debug\SolidPrinciples.Demo.OCP.pdb
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\obj\Debug\SolidPrinciples.Demo.OCP.csprojResolveAssemblyReference.cache

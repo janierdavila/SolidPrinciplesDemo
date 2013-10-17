@@ -1,0 +1,4 @@
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\bin\Debug\SolidPrinciples.Demo.dll
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\bin\Debug\SolidPrinciples.Demo.pdb
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\obj\Debug\SolidPrinciples.Demo.dll
+C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo\obj\Debug\SolidPrinciples.Demo.pdb
