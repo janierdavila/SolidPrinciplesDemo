@@ -1,5 +1,0 @@
-C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo.LSP\bin\Debug\SolidPrinciples.Demo.LSP.dll
-C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo.LSP\bin\Debug\SolidPrinciples.Demo.LSP.pdb
-C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo.LSP\obj\Debug\SolidPrinciples.Demo.LSP.csprojResolveAssemblyReference.cache
-C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo.LSP\obj\Debug\SolidPrinciples.Demo.LSP.dll
-C:\Projects\SolidPrinciples.Demo\SolidPrinciples.Demo.LSP\obj\Debug\SolidPrinciples.Demo.LSP.pdb
